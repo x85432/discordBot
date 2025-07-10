@@ -1,0 +1,11 @@
+# Python venv
+myvenv311/
+
+# dotenv secrets
+.env
+
+# __pycache__
+__pycache__/
+
+# VSCode metadata (optional)
+.vscode/
